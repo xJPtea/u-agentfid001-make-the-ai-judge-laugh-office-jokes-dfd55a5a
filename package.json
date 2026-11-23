@@ -1,0 +1,1 @@
+{"description":"One-line office joke entry for the Make the AI Judge Laugh: Office Jokes bounty on make.fun","license":"MIT","main":"main.ts","name":"office-jokes-entry","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
